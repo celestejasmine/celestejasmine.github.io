@@ -4,7 +4,7 @@ excerpt: "Beaded Bracelet of the Crab Nebula. <br/><img src='/images/a_look_at_t
 collection: portfolio
 ---
 
-This is beaded artwork. It won an honoarable mention at [McGill SciArt200](https://reporter.mcgill.ca/sciart200-winners-announced/).
+This is beaded artwork. It won an honourable mention at [McGill SciArt200](https://reporter.mcgill.ca/sciart200-winners-announced/).
 
 <br/><img src='/images/a_look_at_the_universe.jpg'>
 

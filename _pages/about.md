@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Celeste Groux"
+title: "Celeste J Groux"
 author_profile: true
 redirect_from: 
   - /about/

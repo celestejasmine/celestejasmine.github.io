@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Celeste Groux Personal Website "
+title                    : "Celeste Groux WebSite"
 title_separator          : "-"
 name                     : &name "Celeste J Groux"
 description              : &description "Graduate Dean Scholar & Cornell ORIE PhD Student"
@@ -22,7 +22,7 @@ repository               : "celestejasmine/celestejasmine.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Celeste J Groux"
+  name             : "Celeste Jasmine Groux"
   pronouns         : # "she/her" # example: "she/her"  
   bio              : "Cornell Operations Research and Information Engineering PhD Student"
   location         : "Ithaca, NY, USA"

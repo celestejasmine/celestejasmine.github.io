@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Celeste Groux Personal Website "
 title_separator          : "-"
-name                     : &name "Celeste Jasmine Groux"
+name                     : &name "Celeste J Groux"
 description              : &description "Graduate Dean Scholar & Cornell ORIE PhD Student"
 url                      : https://celestejasmine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "celestejasmine/celestejasmine.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Celeste Jasmine Groux"
+  name             : "Celeste J Groux"
   pronouns         : # "she/her" # example: "she/her"  
   bio              : "Cornell Operations Research and Information Engineering PhD Student"
   location         : "Ithaca, NY, USA"

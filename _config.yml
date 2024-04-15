@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Celeste Jasmine Groux"
-  pronouns         : "she/her" # example: "she/her"  
-  bio              : "Graduate Dean Scholar | Cornell ORIE PhD Student"
+  pronouns         : # "she/her" # example: "she/her"  
+  bio              : "Cornell Operations Research and Information Engineering PhD Student"
   location         : "Ithaca, NY, USA"
   employer         : "Cornell University"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0009-0006-7416-0148"
+  orcid            : # "http://orcid.org/0009-0006-7416-0148"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 

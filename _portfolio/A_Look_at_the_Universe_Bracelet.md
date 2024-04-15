@@ -1,6 +1,6 @@
 ---
 title: "A Look at the Universe"
-excerpt: "Beaded bracelet of a  1<br/><img src='/images/a_look_at_the_universe.png'>"
+excerpt: "Beaded bracelet of a  1<br/><img src='/images/a_look_at_the_universe.jpg'>"
 collection: portfolio
 ---
 

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my PhD degree at Cornell University in the [Operations Research and Information Engineering (ORIE)](https://www.orie.cornell.edu/orie) Department. My interests lie in applied operations research, including areas of discrete optimization and mechanism design.
+I am currently pursuing my PhD degree at Cornell University in the [Operations Research and Information Engineering (ORIE)](https://www.orie.cornell.edu/orie) Department. My interests lie in applied operations research, including areas of discrete optimization and mechanism design. I am currently working with Shane Henderson, Andrea Lodi, and David Shmoys on a project related to e-bike battery swapping stations in New York City.
 
 I am originally from Montreal, Quebec, Canada. I completed my undergraduate studies in Honours Applied Mathematics at [McGill University](https://www.mcgill.ca/mathstat/). Besides my academic interests, I enjoy long distance running and making [beaded jewellery](https://www.instagram.com/waskobeadwork/?hl=en).
 

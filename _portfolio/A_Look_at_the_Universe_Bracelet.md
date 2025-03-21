@@ -1,6 +1,6 @@
 ---
 title: "A Look at the Universe"
-excerpt: "Beaded Bracelet of the Crab Nebula. <br/><img src='/images/a_look_at_the_universe.jpg' width='300' height='auto' >"
+excerpt: "Beaded Bracelet of the Crab Nebula. <br/><img src='/images/a_look_at_the_universe.jpg' width='500' height='auto' >"
 collection: portfolio
 ---
 

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Celeste Groux WebSite"
+title                    : "Celeste Groux"
 title_separator          : "-"
 name                     : &name "Celeste J Groux"
 description              : &description "Graduate Dean Scholar & Cornell ORIE PhD Student"

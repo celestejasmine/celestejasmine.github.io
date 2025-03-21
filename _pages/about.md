@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my PhD degree at Cornell University in the [Operations Research and Information Engineering (ORIE)](https://www.orie.cornell.edu/orie) Department. My interests lie in applied operations research, including areas of discrete optimization and mechanism design. I am currently working with Shane Henderson, Andrea Lodi, and David Shmoys on a project related to e-bike battery swapping stations in New York City.
+I am a PhD student in Operations Research and Information Engineering at Cornell University, where I am advised by Shane Henderson, Andrea Lodi, and David Shmoys. My research focuses on operational and logistics challenges in e-bike battery swapping in collaboration with NYC startup PopWheels. Specifically, I work on problems like determining optimal customer capacity for a given service level, charging logistics, and dynamic facility location under incomplete stochastic demand. My work combines theory and application, bridging research and real-world decision-making. I’m particularly interested in how mathematical modelling, optimization, and algorithmic techniques can drive efficiency in transportation, logistics, and supply chain systems.
 
-I am originally from Montreal, Quebec, Canada. I completed my undergraduate studies in Honours Applied Mathematics at [McGill University](https://www.mcgill.ca/mathstat/). Besides my academic interests, I enjoy long distance running and making [beaded jewellery](https://www.instagram.com/waskobeadwork/?hl=en).
+Originally from Montreal, Quebec, Canada, I completed my undergraduate studies in Honours Applied Mathematics at [McGill University](https://www.mcgill.ca/mathstat/). Outside of research, I enjoy figure skaing and knitting.
 
-My email is: cjg276[at]cornell[dot]edu
+Contact: cjg276[at]cornell[dot]edu
 
 <!---
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

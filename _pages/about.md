@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in [Operations Research and Information Engineering (ORIE)](https://www.orie.cornell.edu/orie) at Cornell University, where I am advised by Shane Henderson, Andrea Lodi, and David Shmoys. My research focuses on operational and logistics challenges in e-bike battery swapping in collaboration with NYC startup PopWheels. Specifically, I work on problems like determining optimal customer capacity for a given service level, charging logistics, and dynamic facility location under incomplete stochastic demand. My work combines theory and application, bridging research and real-world decision-making. I’m particularly interested in how mathematical modelling, optimization, and algorithmic techniques can drive efficiency in transportation, logistics, and supply chain systems.
+I am a PhD student in [Operations Research and Information Engineering (ORIE)](https://www.orie.cornell.edu/orie) at Cornell University, where I am advised by Shane Henderson, Andrea Lodi, and David Shmoys. My research focuses on operational and logistics challenges in e-bike battery swapping in collaboration with NYC startup PopWheels. Specifically, I work on problems like determining optimal customer capacity for a given service level, charging logistics, and dynamic facility location under incomplete stochastic demand. 
+
+My work combines theory and application, bridging research and real-world decision-making. I’m particularly interested in how mathematical modelling, optimization, and algorithmic techniques can drive efficiency in transportation, logistics, and supply chain systems. My research is supported by a doctoral fellowship (PGS-D) from the National Science and Engineering Research Council of Canada.
 
 Originally from Montreal, Quebec, Canada, I completed my undergraduate studies in Honours Applied Mathematics at [McGill University](https://www.mcgill.ca/mathstat/). Outside of research, I enjoy figure skaing and knitting.
 

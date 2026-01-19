@@ -11,7 +11,7 @@ I am a PhD student in [Operations Research and Information Engineering (ORIE)](h
 
 My work combines theory and application, bridging research and real-world decision-making. I’m particularly interested in how mathematical modelling, optimization, and algorithmic techniques can drive efficiency in transportation, logistics, and supply chain systems. I am a Graduate Dean's Scholar, and my research is supported by a doctoral fellowship (PGS-D) from the National Science and Engineering Research Council of Canada.
 
-Originally from Montreal, Quebec, Canada, I completed my undergraduate studies in Honours Applied Mathematics at [McGill University](https://www.mcgill.ca/mathstat/). I am also a reigstered member of Bigstone Cree Nation in Calling Lake Alberta and am currently serving as President of the [Cornell Indigenous Gradaute Student Association](https://cornell.campusgroups.com/igsa/home/) for the 2025-2026 academic year.  Outside of research, I enjoy knitting and figure skating and am a member of the [Cornell University Figure Skating Club](https://www.cornellskating.com/).
+Originally from Montreal, Quebec, Canada, I completed my undergraduate studies in Honours Applied Mathematics at [McGill University](https://www.mcgill.ca/mathstat/). I am also a registered member of Bigstone Cree Nation in Calling Lake Alberta and am currently serving as President of the [Cornell Indigenous Gradaute Student Association](https://cornell.campusgroups.com/igsa/home/) for the 2025-2026 academic year.  Outside of research, I enjoy knitting and figure skating and am part of the [Cornell University Figure Skating Club](https://www.cornellskating.com/).
 
 Contact: cjg276[at]cornell[dot]edu
 

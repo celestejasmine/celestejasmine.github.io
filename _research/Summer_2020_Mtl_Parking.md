@@ -12,6 +12,7 @@ From May to August of 2021, I received the National Science and Engineering Rese
 <!--- permalink: /research/Summer_2020_Mtl_Parking -->
 <!--- venue: 'Journal 1' -->
 <!--- paperurl: 'http://academicpages.github.io/files/research_summer_2020.pdf' -->
-<!--- citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' -->
+<!--- citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' 
 
 -->
+

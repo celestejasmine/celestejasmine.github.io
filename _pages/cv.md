@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](/files/Celeste_Groux_CV_2601.pdf)
+You can download my CV [here](/files/Celeste_Groux_CV_2601.pdf).
 
 
 
